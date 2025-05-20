@@ -80,4 +80,4 @@ client.on('messageCreate', async (message) => {
 });
 
 // Start bot
-client.login(process.env.DISCORD_TOKEN);
+client.login(process.env.DISCORD_BOT_TOKEN);
